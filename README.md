@@ -36,3 +36,5 @@ In this lecture, we will introduce participants to the fundamental concepts and 
 - Long-Short Term Memory
 - Encoder-Decoder Models
 - Text Generation
+
+Slides: https://data4sci.com/landing/advanced-nlp
