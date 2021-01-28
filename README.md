@@ -1,6 +1,11 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Causality/master)
+
+
 # NLP with Deep Learning
 
 ### Code and slides to accompany the online series of webinars: https://data4sci.com/nlp-with-keras by Data For Science.
+
+### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/AdvancedNLP/master)
 
 Natural Language lies at the heart of current developments in Artificial Intelligence, User Interaction and Information Processing. The combination of unprecedented corpora of written text provided by Social Media and the massification of computational power has led to increased interest in the development of modern NLP tools based on state-of-the-art Deep Learning tools.
 
