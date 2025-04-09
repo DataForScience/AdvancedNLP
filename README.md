@@ -4,22 +4,22 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataForScience/AdvancedNLP)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/AdvancedNLP)
 
-[![Graphs For Science](https://img.shields.io/badge/Graphs_For_Science-Subscribe-blue)](https://graphs4sci.substack.com/)
-[![Sunday Briefing](https://img.shields.io/badge/Sunday_Briefing-Subscribe-blue)](https://data4science.ck.page/a63d4cc8d9)
+[![Data For Science Substack](https://img.shields.io/badge/Graphs_For_Science-Subscribe-blue)](https://data4sci.substack.com/)
+[![Data Science Briefing](https://img.shields.io/badge/Data_Science_Briefing-Subscribe-blue)](https://data4science.ck.page/a63d4cc8d9)
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/AdvancedNLP/master)
 
 
-# NLP with Deep Learning
+# NLP with PyTorch
 
-### Code and slides to accompany the online series of webinars: https://data4sci.com/nlp-with-keras by Data For Science.
+### Code and slides to accompany the online series of webinars: https://data4sci.com/nlp-with-pytorch by Data For Science.
 
 ### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/AdvancedNLP/master)
 
-Natural Language lies at the heart of current developments in Artificial Intelligence, User Interaction and Information Processing. The combination of unprecedented corpora of written text provided by Social Media and the massification of computational power has led to increased interest in the development of modern NLP tools based on state-of-the-art Deep Learning tools.
+Natural Language lies at the heart of current developments in Artificial Intelligence, User Interaction, and Information Processing. The combination of unprecedented corpora of written text provided by social media and the massification of computational power has led to increased interest in the development of modern NLP tools based on state-of-the-art Deep Learning tools.
 
-In this lecture, we will introduce participants to the fundamental concepts and algorithms used for Natural Language Processing through an in-depth exploration of different examples built using the Keras Python framework for Deep Learning. Applications to real datasets will be explored in detail.
+In this course, participants are introduced to the fundamental concepts and algorithms used for Natural Language Processing (NLP) through an in-depth exploration of different examples built using the PyTorch framework for deep learning. Applications to real datasets will be explored in detail.
 
 ## Schedule
 ### 1. Foundations of NLP
@@ -29,7 +29,8 @@ In this lecture, we will introduce participants to the fundamental concepts and 
 - N-grams
 - Working with Word Embeddings
 
-### 2. Neural Networks with Keras
+### 2. Neural Networks with PyTorch
+- PyTorch review
 - Activation Functions
 - Loss Functions
 - Training procedures
