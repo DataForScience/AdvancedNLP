@@ -53,4 +53,4 @@ In this course, participants are introduced to the fundamental concepts and algo
 - Encoder-Decoder Models
 - Text Generation
 
-Slides: https://data4sci.com/landing/advanced-nlp
+<!-- Slides: https://data4sci.com/landing/advanced-nlp -->
